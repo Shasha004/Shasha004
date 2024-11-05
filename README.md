@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" alt="Waltuh" width="400" src="https://tenor.com/view/merge-pull-request-merged-pr-github-gif-9962028183475086312">
+<img align="right" alt="Waltuh" width="400" src="https://media1.tenor.com/m/L7FjYL2mkw8AAAAd/breaking-bad-let-me-cook.gif">
 
 - 👋 Hi, I’m **@Shasha004**, an aspiring Android Developer passionate about building innovative mobile applications.
  
