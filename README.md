@@ -77,7 +77,7 @@ Here's a snapshot of my GitHub activity:
 ### 🔝 **Top Repos**:
 Check out the repositories I've contributed to the most!
 
-![](https://github-contributor-stats.vercel.app/api?username=Shasha004&limit=5&theme=dark&combine_all_yearly_contributions=false)
+![](https://github-contributor-stats.vercel.app/api?username=Shasha004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
